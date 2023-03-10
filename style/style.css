@@ -189,4 +189,40 @@
   line-height: 68px;
   text-transform: lowercase;
   color: #e5e2de;
+}
+
+.five-section .text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 49px;
+  line-height: 58px;
+  text-align: center;
+  text-transform: lowercase;
+  color: #20201f;
+}
+
+.five-section {
+  height: 615px;
+  background: #ffffff;
+}
+
+.six-section {
+  height: 840px;
+  background: #f7f7f7;
+}
+
+.seven-section {
+  height: 800px;
+  background: #ffffff;
+}
+
+.eight-section {
+  height: 800px;
+  background: #e5e2de;
+}
+
+.footer {
+  height: 469px;
+  background: #20201f;
 }/*# sourceMappingURL=style.css.map */
